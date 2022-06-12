@@ -1,0 +1,16 @@
+.body
+{
+  padding: 0.4em 5.1em;
+}
+
+canvas 
+{
+  border: 1px solid black;
+  width: 300px;
+}
+
+h2
+{
+  font-size: 1.3em;
+  text-decoration: underline; 
+}
