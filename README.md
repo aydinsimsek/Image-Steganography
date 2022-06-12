@@ -1,6 +1,3 @@
-## About 
-Hide one image inside another image by hiding information inside half of each pixel's bits of data, then extract the hidden image. 
-
 ## Usage
 * When you hit the `stego` button the base image and the secret image are combined and displayed on the left-side canvas.
 * When you hit the `extract` button the secret image is extracted from the combined image and displayed on the right-side canvas. 
